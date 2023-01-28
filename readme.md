@@ -1,0 +1,1 @@
+This Repo show all the things i'm going to learn about MongoDB..
